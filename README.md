@@ -1,2 +1,2 @@
-# Movie-Recomandotion-system-using-php-Html-sql
-Bangla Movie Recomandtion System using pHp, Html, Css and my sql. 
+# Movie-Recommendation-system-using-php-Html-SQL
+Bangla Movie Recommendation System using PHP, Html, Css, and my sql. 
